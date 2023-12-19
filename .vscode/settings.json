@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iom328p.h": "c",
+        "inttypes.h": "c",
+        "delay.h": "c",
+        "i2cmaster.h": "c",
+        "io.h": "c",
+        "interrupt.h": "c"
+    }
+}
